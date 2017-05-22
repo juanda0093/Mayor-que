@@ -25,13 +25,18 @@ public class Parcial_3_laboratorio1modificado {
         } else {
             System.err.println("El número " + a + " es diferente que " + b);
         }
-        
+
         System.err.println("a");
         System.err.println("s");
         System.err.println("w");
         System.err.println("Hola david");
         System.err.println("...");
         System.err.println("..");
+
+        System.err.println("");
+        System.err.println("");
+        System.err.println();
+        System.err.println("");
     }
-    
+
 }
