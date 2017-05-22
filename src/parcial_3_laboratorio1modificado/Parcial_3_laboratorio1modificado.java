@@ -30,6 +30,9 @@ public class Parcial_3_laboratorio1modificado {
         } else {
             System.err.println("El número " + a + " es diferente que " + b);
         }
+        
+        System.err.println("oeoeoeoeoeoeoeooeoe");
+        System.err.println("asasasa");
     }
     
 }
