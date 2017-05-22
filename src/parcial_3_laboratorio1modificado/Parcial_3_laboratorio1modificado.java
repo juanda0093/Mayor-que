@@ -20,19 +20,14 @@ public class Parcial_3_laboratorio1modificado {
         int a = Integer.parseInt(JOptionPane.showInputDialog("Ingrese un numero"));
         int b = Integer.parseInt(JOptionPane.showInputDialog("Ingrese un numero otro numero"));
 
-        if (a == b) {
-            System.err.println("El número " + b + " es igual que " + a);
-        } else {
-            System.err.println("El número " + a + " es diferente que " + b);
-        }
         if (a > b) {
             System.err.println("El número " + b + " es igual que " + a);
         } else {
             System.err.println("El número " + a + " es diferente que " + b);
         }
         
-        System.err.println("oeoeoeoeoeoeoeooeoe");
-        System.err.println("asasasa");
+        System.err.println("zzzzzz");
+        System.err.println("zzzzzzzzasas");
     }
     
 }
