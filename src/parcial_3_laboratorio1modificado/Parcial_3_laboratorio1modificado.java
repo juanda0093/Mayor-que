@@ -26,8 +26,9 @@ public class Parcial_3_laboratorio1modificado {
             System.err.println("El número " + a + " es diferente que " + b);
         }
         
-        System.err.println("zzzzzz");
-        System.err.println("zzzzzzzzasas");
+        System.err.println("z");
+        System.err.println("y");
+        System.err.println("x");
     }
     
 }
