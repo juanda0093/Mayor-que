@@ -25,6 +25,12 @@ public class Parcial_3_laboratorio1modificado {
         } else {
             System.err.println("El número " + a + " es diferente que " + b);
         }
+
+        if (a < b) {
+            System.out.print("El número " + b + " es mayor que " + a);
+        } else {
+            System.out.print("El número " + a + " es mayor que " + b);
+        }
     }
-    
+
 }
